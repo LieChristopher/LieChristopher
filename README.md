@@ -2,9 +2,15 @@
 #### BINUS' Most Student
 ![BINUS' Most Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
+![More about me](http://thewowstyle.com/wp-content/uploads/2015/01/Funny-Posters-40.jpg)
+
+My past.
+My present.
+My future.
+
+Skills: C/C++ / Java / Python / SQL / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - LinkedIn: www.linkedin.com/in/christopher-lie
