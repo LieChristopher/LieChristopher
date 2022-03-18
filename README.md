@@ -2,10 +2,6 @@
 #### BINUS' Most Student
 ![BINUS' Most Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-
-
-![More about me](http://thewowstyle.com/wp-content/uploads/2015/01/Funny-Posters-40.jpg)
-
 My past.
 My present.
 My future.
