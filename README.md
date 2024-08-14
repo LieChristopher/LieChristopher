@@ -1,17 +1,15 @@
 ### Hi there, I'm Christopher Lie 👋
 #### Software Developer, Programmer, Data Scientist
 
-My past.
-My present.
-My future.
+Fresh graduate from BINUS University with a bachelor degree in Computer Science and Mathematics. Previously worked internships in positions dealing with data and software engineering. Using my experience and skills through data and technology, I strive to create real solutions for real problems and to improve the world.
+
+Some projects:
+[Mangrove Monitor App](mangrovemonitorapp.streamlit.app/)
 
 Skills:
+C/C++ / Java / Python / R / SQL / Oracle / HTML / CSS / PeopleSoft
 
-Programming Languages:
-C/C++ / Java / Python / SQL / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-- LinkedIn: www.linkedin.com/in/christopher-lie
+[My LinkedIn](www.linkedin.com/in/christopher-lie)
 
 <!---
 LieChristopher/LieChristopher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
