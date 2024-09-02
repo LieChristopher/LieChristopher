@@ -4,7 +4,7 @@
 Fresh graduate from BINUS University with a bachelor degree in Computer Science and Mathematics. Previously worked internships in positions dealing with data and software engineering. Using my experience and skills through data and technology, I strive to create real solutions for real problems and to improve the world.
 
 Some projects:
-[Mangrove Monitor App](mangrovemonitorapp.streamlit.app/)
+[Mangrove Monitor App](https://mangrovemonitorapp.streamlit.app/)
 
 Skills:
 C/C++ / Java / Python / R / SQL / Oracle / HTML / CSS / PeopleSoft
