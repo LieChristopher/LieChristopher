@@ -1,7 +1,7 @@
 ### Hi there, I'm Christopher Lie 👋
-#### Software Developer, Programmer, Data Scientist
+#### AI Engineer, Software Developer, Data Scientist
 
-Fresh graduate from BINUS University with a bachelor degree in Computer Science and Mathematics. Previously worked internships in positions dealing with data and software engineering. Using my experience and skills through data and technology, I strive to create real solutions for real problems and to improve the world.
+AI Engineer. Bachelor degree in Computer Science and Mathematics from BINUS University. Previously worked internships in positions dealing with data and software engineering. Using my experience and skills through data and technology, I strive to create real solutions for real problems and to improve the world.
 
 Some projects:
 [Mangrove Monitor App](https://mangrovemonitorapp.streamlit.app/)
