@@ -1,13 +1,13 @@
-### Hi there, I'm Christopher Lie 👋
-#### AI Engineer, Software Developer, Data Scientist
+# Hi there, I'm Christopher Lie 👋
+## AI/ML Engineer, Software Developer, Data Scientist
 
-AI Engineer. Bachelor degree in Computer Science and Mathematics from BINUS University. Previously worked internships in positions dealing with data and software engineering. Using my experience and skills through data and technology, I strive to create real solutions for real problems and to improve the world.
+AI Engineer at CIMB Niaga. Double Bachelor's Degree in Computer Science and Mathematics from BINUS University. Previously worked internships in data engineering and software engineering. With my skills in data and tech, I strive to create smart solutions for real world problems.
 
 Some projects:
 [Mangrove Monitor App](https://mangrovemonitorapp.streamlit.app/)
 
 Skills:
-C/C++ / Java / Python / R / SQL / Oracle / HTML / CSS / PeopleSoft
+Python / C/C++ / Java / R / SQL / Oracle / HTML / CSS / PeopleSoft
 
 [My LinkedIn](www.linkedin.com/in/christopher-lie)
 
