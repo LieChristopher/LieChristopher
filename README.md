@@ -1,11 +1,11 @@
 # Hi, I'm Christopher Lie 👋
 ## AI Engineer at CIMB Niaga, focused on building reliable LLM systems for production
 
-I specialize in applying Artificial Intelligence to software solutions, developing AI workflows and AI agents, RAG applications, and MLOps pipelines. My background in Computer Science and Mathematics (Technology University of Indonesia) provides a strong foundation in the statistical and algebraic principles behind modern AI.
+I specialize in applying Artificial Intelligence to software solutions, developing AI workflows and AI agents, RAG applications, and MLOps pipelines. My background in Computer Science and Mathematics (BINUS University) provides a strong foundation in the statistical and algebraic principles behind modern AI.
 
-Currently working with: LangChain, Vertex AI, Kubernetes, and MLflow to ensure deployed models remain scalable and observable over time.
+Currently working with: LangChain, Vertex AI, Kubernetes, and MLflow to ensure deployed solutions remain scalable and observable over time.
 
-Let's use data and technology build solutions that tackle real-world problems!
+Let's use data and technology to build solutions that tackle real-world problems!
 
 ### [My LinkedIn](www.linkedin.com/in/christopher-lie)
 
